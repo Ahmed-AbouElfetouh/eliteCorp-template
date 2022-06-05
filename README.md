@@ -1,23 +1,25 @@
-
 ## Hi, I'm Ahmed! 👋
 
 
 ## 🚀 I'm a front-end developer...
 
 
-#  Elite Corp Template
+#  Elite Corp
+I built this project using (HTML, CSS, JavaScript and Bootstrap).
 
-## What you will Find in Template
+in that project you will find :
 
-- Fully Responsive Template.
-- Two Different Sliders.
-- Gallary Filter.
-- Increase Numbers On Scrolling.
-## Tech Stack
+1- Two Different Sliders.
 
-**Client:** HTML, CSS, JavaScript, Bootstrap
+2- Gallery Filter.
+
+3- Increase Numbers On Scrolling.
+
+4- Website is fully responsive by [Bootstrap].
+
 
 ## For Live Preview [Click Here](https://ahmed-abouelfetouh.github.io/eliteCorp-template/)
+
 ## Project Screenshots
 
 ![header.png](https://i.postimg.cc/C54D4wjh/header.png)
